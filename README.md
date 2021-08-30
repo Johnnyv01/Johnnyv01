@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Oiii! Eu sou a O jonathan
+## Ola Landies and Gentlemen! Eu sou o Jonathan Vicente
  <div>
   <a href="https://github.com/Johnnyv01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Johnnyv01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
