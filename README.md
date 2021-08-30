@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Johnnyv01/Johnnyv01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Oiii! Eu sou a O jonathan
  <div>
   <a href="https://github.com/Johnnyv01">
