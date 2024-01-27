@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jonathan Vicente</h1>
-<h3 align="center">I'M software developer with 2 years experience</h3>
+<h1 align="center">Hello, I'm Jonathan Vicente</h1>
+<h3 align="center">I'm Software Developer with 2 years experience</h3>
 
 - 📫 How to reach me **jonathan-priston@hotmail.com**
 
