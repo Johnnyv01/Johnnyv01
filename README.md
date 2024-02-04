@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif">
+</p>
 <h2 align="start"> Hi There 👋</h2>
 <p align="start"> Hello, I'm Jonathan Vicente. I'm Software Developer with 2 years experience. I have the opportunity to work with different technologies on different projects</p>
 
