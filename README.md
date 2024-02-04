@@ -1,5 +1,6 @@
-<h1 align="center">Hello, I'm Jonathan Vicente</h1>
-<h3 align="center">I'm Software Developer with 2 years experience</h3>
+
+<h1 align="center"> Hi 👋</h1>
+<h3 align="center"> Hello, I'm Jonathan Vicente. I'm Software Developer with 2 years experience. I have the opportunity to work with different technologies on different projects</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
