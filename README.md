@@ -1,6 +1,6 @@
 
-<h1 align="center"> Hi 👋</h1>
-<h3 align="center"> Hello, I'm Jonathan Vicente. I'm Software Developer with 2 years experience. I have the opportunity to work with different technologies on different projects</h3>
+<h2 align="start"> Hi There 👋</h2>
+<p align="start"> Hello, I'm Jonathan Vicente. I'm Software Developer with 2 years experience. I have the opportunity to work with different technologies on different projects</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
