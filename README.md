@@ -1,9 +1,9 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <h2 align="start"> Hi There 👋</h2> 
-<p align="start"> Hello, I'm Jonathan Vicente. I'm Software Developer with 2 years experience. I have the opportunity to work with different technologies on different projects</p>
+<p align="start"> Hello, I'm Jonathan Vicente. I'm Software Developer with 4 years experience. I have the opportunity to work with different technologies on different projects</p>
 
-<h2 align="left"> 💻 Tech Stack</h2>
+<h2 align="left"> 💻 Stack</h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
